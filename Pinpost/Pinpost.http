@@ -1,0 +1,6 @@
+@Pinpost_HostAddress = http://localhost:5185
+
+GET {{Pinpost_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
